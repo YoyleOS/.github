@@ -7,3 +7,4 @@ having a decent amount of actually useful features.
 
 # Projects
 YoyleOS: https://github.com/YoyleOS/YoyleOS
+YoyleOS website: yoyleos.github.io
